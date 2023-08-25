@@ -9,7 +9,7 @@ This project demonstrates the process of building, training, and evaluating Conv
 ## Training and Evaluation
 Each script includes sections for loading the MNIST dataset, preprocessing images, building CNN models, training, and evaluating accuracy. Follow the script's instructions to execute these steps.
 
-##Using Streamlit for Interactivity
+## Using Streamlit for Interactivity
 To make your trained CNN model interactive and user-friendly, you can use Streamlit. Follow these steps to set up and use Streamlit:
 
 Install Streamlit:
