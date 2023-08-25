@@ -16,7 +16,7 @@ Install Streamlit: <br>
 pip install streamlit
 
 Run the Streamlit app: <br>
-Step 1 ) execute the command "streamlit run app.py"
+Step 1 ) execute the command "streamlit run app.py" <br>
 Step 2 ) Upload an image to the app and interact with the model's predictions.
 
 ## Contributing
