@@ -12,10 +12,10 @@ Each script includes sections for loading the MNIST dataset, preprocessing image
 ## Using Streamlit for Interactivity
 To make your trained CNN model interactive and user-friendly, you can use Streamlit. Follow these steps to set up and use Streamlit:
 
-Install Streamlit:
+### Install Streamlit:
 pip install streamlit
 
-Run the Streamlit app:
+### Run the Streamlit app:
 Step 1 ) execute the command "streamlit run app.py"
 Step 2 ) Upload an image to the app and interact with the model's predictions.
 
