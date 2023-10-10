@@ -1,4 +1,4 @@
-#Crime Dataset Analysis and Regression Models
+# Crime Dataset Analysis and Regression Models
 
 This repository contains a Python script that demonstrates the use of various regression models on a dataset related to crime. The models include KNeighbors Regressor (KNN), Lasso Regression, Polynomial Regression, and Ridge Regression.
 
