@@ -1,6 +1,5 @@
 
 ### Classification Report
-The following classification reports present the performance metrics of the trained models on the test data.
 
 **SimpleRNN**
 |                 | Precision | Recall | F1 Score |
